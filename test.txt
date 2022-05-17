@@ -1,0 +1,7 @@
+This is the test file which consists of numbers like:
+1
+2
+e
+3
+Pi
+4
